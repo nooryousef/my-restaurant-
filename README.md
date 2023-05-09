@@ -12,6 +12,10 @@
 [GitHub Pages](https://github.com/nooryousef/my-restaurant-) 
 
 
-![Alt text](vscode-local:/c%3A/Users/JCC/Downloads/My%20First%20Board%20%281%29.jpg)
 
-![Alt text](vscode-local:/c%3A/Users/JCC/Downloads/Untitled%20%281%29.jpg)
+
+
+
+![IMG](./assets/wireframe1.jpg)
+![IMG](./assets/wireframe2.jpg)
+
